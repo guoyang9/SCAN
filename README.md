@@ -13,10 +13,11 @@
 ### Acknowledgement
 If you found this repo helpful, please consider cite the following paper:
 ```bibtex
-@inproceedings{scan,
-  author       = {Yangyang Guo and Mohan Kankanhalli},
-  title        = {SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency},
-  booktitle    = {ArXiv},
-  year         = {2024}
+@misc{scan,
+      title={SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency}, 
+      author={Yangyang Guo and Mohan Kankanhalli},
+      year={2024},
+      eprint={2411.09126},
+      archivePrefix={arXiv}
 }
 ```
